@@ -19,6 +19,7 @@
 <details>
 <summary>📘 Day 01 – OT, R 설치</summary>
 <br>
+  
 - 작업 환경 구축 (폴더 구조)
 - R & RStudio 설치법
 - 주석, 수업 방식 및 자료 접근 안내
