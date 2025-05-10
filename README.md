@@ -18,7 +18,7 @@
 
 <details>
 <summary>📘 Day 01 – OT, R 설치</summary>
-
+<br>
 - 작업 환경 구축 (폴더 구조)
 - R & RStudio 설치법
 - 주석, 수업 방식 및 자료 접근 안내
@@ -26,7 +26,7 @@
 
 <details>
 <summary>🔤 Day 02 – 변수, 자료형</summary>
-
+<br>
 - 변수 선언 및 작명 규칙
 - 주요 자료형 (numeric, character, logical)
 - 산술 연산자 및 자료형 확인/변환 함수
