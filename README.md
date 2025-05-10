@@ -1,3 +1,19 @@
+---
+
+## 🧰 사용 기술
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio Badge"/>
+  <img src="https://img.shields.io/badge/ggplot2-F8766D?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2 Badge"/>
+  <img src="https://img.shields.io/badge/RMarkdown-00497E?style=for-the-badge&logo=rstudio&logoColor=white" alt="RMarkdown Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FFB000?style=for-the-badge&logo=bar-chart&logoColor=white" alt="Visualization Badge"/>
+  <img src="https://img.shields.io/badge/File%20I%2FO-6A1B9A?style=for-the-badge" alt="File I/O Badge"/>
+  <img src="https://img.shields.io/badge/Custom%20Functions-009688?style=for-the-badge" alt="Custom Function Badge"/>
+</p>
+
+---
+
 # 📊 R 기초 강의 정리
 
 ---
