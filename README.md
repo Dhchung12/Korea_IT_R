@@ -34,7 +34,6 @@
 - 주요 자료형 (numeric, character, logical)
 - 산술 연산자 및 자료형 확인/변환 함수
 
-<br>
 </details>
 
 <details>
@@ -45,7 +44,6 @@
 - 논리 연산자 (`&`, `|`, `!`)
 - R 기본 자료구조 개요 (vector, matrix 등)
 
-<br>
 </details>
 
 <details>
@@ -56,7 +54,6 @@
 - 조건에 따른 요소 추출
 - 매트릭스 생성과 행/열 요소 접근
 
-<br>
 </details>
 
 <details>
@@ -67,7 +64,6 @@
 - 배열 생성 및 구조
 - 데이터프레임 개요와 행열 구조 이해
 
-<br>
 </details>
 
 <details>
@@ -78,7 +74,6 @@
 - 리스트 자료구조 이해
 - 요인(factor) 자료형 및 특징
 
-<br>
 </details>
 
 <details>
@@ -89,7 +84,6 @@
 - for / while / repeat 반복문
 - 조건식 활용 예시
 
-<br>
 </details>
 
 <details>
@@ -100,7 +94,6 @@
 - 매개변수, 리턴값 이해
 - 파일 읽기/쓰기 기초
 
-<br>
 </details>
 
 <details>
@@ -111,7 +104,6 @@
 - 절대경로 vs 상대경로
 - 파일 인코딩 개념
 
-<br>
 </details>
 
 <details>
@@ -122,7 +114,6 @@
 - 기본 그래프 함수 (`plot`, `barplot`, `boxplot`)
 - `ggplot2` 소개 및 기본 사용
 
-<br>
 </details>
 
 ---
